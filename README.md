@@ -2,7 +2,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 =====================================================================================================================================
 Desarrollador web
 -----------------
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZ4cWRoN2p0MzRxN3l5OG1keXduY2xsZ2N1NzMwNmowOHhvbm9nciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width ="300px">
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador en constante aprendizaje 📚🎓
 * 🌍  Páis Vasco / España 🇪🇸
 * ✉️  Contáctame a mi correo [julensalinas@gmail.com](mailto:julensalinas@gmail.com)
