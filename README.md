@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julen Salinas
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me llamo Julen Salinas
 =====================================================================================================================================
 Desarrollador web
 -----------------
 Desarrollador web 👨‍💻 Español 🇪🇸. Me considero un programador con ganas de aprender constantemente y evolucionar en este ámbito laboral.
-* 🌍  I'm based in Páis Vasco / España 🇪🇸
-* ✉️  You can contact me at [julensalinas@gmail.com](mailto:julensalinas@gmail.com)
-* 🧠  I'm learning Ruby On Rails
+* 🌍  Páis Vasco / España 🇪🇸
+* ✉️  Contáctame a mi correo [julensalinas@gmail.com](mailto:julensalinas@gmail.com)
+* 🧠  Aprendiendo Ruby On Rails
 
 ### Skills
 
