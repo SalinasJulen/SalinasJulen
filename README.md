@@ -3,8 +3,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desarrollador web
 -----------------
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador en constante aprendizaje 📚🎓
-* 🌍  Páis Vasco / España 🇪🇸
-* ✉️  Contáctame a mi correo [julensalinas@gmail.com](mailto:julensalinas@gmail.com)
+* 🌍  País Vasco / España 🇪🇸
+* ✉️  Contáctame a mi correo: [julensalinas@gmail.com](mailto:julensalinas@gmail.com)
 * 🧠  Aprendiendo Ruby On Rails
 
 ### Skills
