@@ -5,7 +5,7 @@ Desarrollador web
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador en constante aprendizaje 📚🎓
 * 🌍  País Vasco / España 🇪🇸
 * ✉️  Contáctame a mi correo: [julensalinas@gmail.com](mailto:julensalinas@gmail.com)
-* 🧠  Aprendiendo Ruby On Rails
+* 🧠  Aprendiendo Sinatra
 
 ### Skills
 
